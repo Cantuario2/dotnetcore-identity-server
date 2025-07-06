@@ -1,0 +1,6 @@
+@IdentityServer_HostAddress = https://antoniojuniorwebapi.runasp.net/connect/token
+
+GET {{IdentityServer_HostAddress}}/
+Accept: application/json
+
+###
